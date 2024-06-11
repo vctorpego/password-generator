@@ -2,6 +2,9 @@
 
 Este projeto é um gerador de senhas que permite ao usuário criar senhas seguras com base em diferentes critérios, como comprimento da senha, letras maiúsculas, minúsculas, números e caracteres especiais. O objetivo é ajudar os usuários a criar senhas fortes e difíceis de serem quebradas.
 
+# visualize o projeto
+(https://vctorpego.github.io/password-generator/)
+
 # como usar
 
 1. Ajuste o comprimento da senha utilizando o campo "Password Length".
